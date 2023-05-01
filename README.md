@@ -9,6 +9,10 @@ You can Check User/customer application from here
   <img src="/images/playstoreicon.png" width="128"/>
 </a>
 
+You can see customer application <a href="https://play.google.com/store/apps/details?id=com.uridedriver"> here  </a>
+
+
+Here are some of the screenshot for the texi driver 
 <table>
   <tr> 
       <td> <img src="/images/image_1.png" width="300"/> </td>
@@ -28,5 +32,5 @@ You can Check User/customer application from here
 
 </table>
 
-Here are some of the screenshot for the texi driver 
+
 
