@@ -6,7 +6,7 @@ You can Check User/customer application from here
 
 
 <a href="https://play.google.com/store/apps/details?id=com.uridedriver">
-![Alt text](/images/playstoreicon.png?raw=true "Play store ")
+  <img src="/images/playstoreicon.png" width="128"/>
 </a>
 
 
