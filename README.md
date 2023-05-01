@@ -9,17 +9,18 @@ You can Check User/customer application from here
   <img src="/images/playstoreicon.png" width="128"/>
 </a>
 
+<table>
   <tr> 
       <td> <img src="/images/image_1.png" width="300"/> </td>
       <td> <img src="/images/image_2.png" width="300"/> </td>
       <td> <img src="/images/image_3.png" width="300"/> </td>
   </tr>
-
   <tr> 
       <td> <img src="/images/image_4.png" width="300"/> </td>
       <td> <img src="/images/image_5.png" width="300"/> </td>
       <td> <img src="/images/image_6.png" width="300"/> </td>
   </tr>
+</table>
 
 Here are some of the screenshot for the texi driver 
 
